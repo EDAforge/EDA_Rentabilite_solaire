@@ -1,0 +1,44 @@
+,mois_installation,an_installation,nb_panneaux,panneaux_marque,panneaux_modele,nb_onduleur,onduleur_marque,onduleur_modele,puissance_crete,surface,pente,pente_optimum,orientation,orientation_optimum,installateur,lat,lon,country,administrative_area_level_1,Prix_p,Prix_o,Prix_total1,Prix_total
+0,5,2020,10,Bourgeoisglobal,BGPV 300 BK,5,Bourgeoisglobal,MOBg-500-600-EU,3000,17,20,37.0,-15,0.0,ENR2J,44.62,2.12,France,Occitanie,425.0,200.0,5250.0,625.0
+1,2,2020,10,Bourgeoisglobal,BGPV 300 BK,5,Bourgeoisglobal,MOBg-500-600-EU,3000,15,30,38.0,-180,6.0,Agsenr,46.19,-1.15,France,Nouvelle-Aquitaine,425.0,200.0,5250.0,625.0
+2,8,2020,10,Bourgeoisglobal,BGPV 300 BK,10,Enphase Energy,IQ 7,3000,15,30,39.0,20,0.0,Personnel,43.81,4.46,France,Occitanie,425.0,155.0,5800.0,580.0
+3,2,2020,10,Bourgeoisglobal,BGPV 300 BK,5,Bourgeoisglobal,MOBg-500-600-EU,3000,16,30,37.0,Sud,-4.0,SBM,42.9,1.92,France,Occitanie,425.0,200.0,5250.0,625.0
+4,6,2021,14,Bourgeoisglobal,BGPV 300 BK,14,Bourgeoisglobal,MOBg-500-600-EU,4200,24,30,37.0,-135,-3.0,tech energie,42.53,2.95,France,Occitanie,425.0,200.0,8750.0,625.0
+5,1,2021,20,Bourgeoisglobal,BGPV 300 BK,10,Bourgeoisglobal,MOBg-500-600-EU,6000,32,20,38.0,-180,0.0,O2 Toit ,43.74,3.96,France,Occitanie,425.0,200.0,10500.0,625.0
+6,2,2021,20,Bourgeoisglobal,BGPV 300 BK,10,Bourgeoisglobal,MOBg-500-600-EU,6000,32,30,37.0,Sud,4.0,AGS QARA,45.49,0.13,France,Nouvelle-Aquitaine,425.0,200.0,10500.0,625.0
+7,3,2021,20,Bourgeoisglobal,BGPV 300 BK,11,Bourgeoisglobal,MOBg-500-600-EU,6000,32,30,38.0,45,0.0,ETHIQUE ENERGIE,43.69,3.54,France,Occitanie,425.0,200.0,10700.0,625.0
+8,2,2021,10,Bourgeoisglobal,BGPV 300 BK,1,Bourgeoisglobal,MOBg-500-600-EU,3000,20,45,37.0,-180,1.0,qara,43.71,1.47,France,Occitanie,425.0,200.0,4450.0,625.0
+9,4,2021,10,Bourgeoisglobal,BGPV 300 BK,10,Bourgeoisglobal,MOBg-500-600-EU,3000,10,0,37.0,45,7.0,Qara,45.3,-0.93,France,Nouvelle-Aquitaine,425.0,200.0,6250.0,625.0
+10,6,2021,8,Bourgeoisglobal,BGPV 300 BK,4,Bourgeoisglobal,MOBg-500-600-EU,2400,12,0,37.0,45,-1.0,SMER,45.93,1.03,France,Nouvelle-Aquitaine,425.0,200.0,4200.0,625.0
+11,6,2021,8,Bourgeoisglobal,BGPV 300 BK,4,Bourgeoisglobal,MOBg-500-600-EU,2400,13,30,38.0,45,-6.0,Aplusenergies,43.16,-0.23,France,Nouvelle-Aquitaine,425.0,200.0,4200.0,625.0
+12,7,2021,8,DUALSUN,DS 375W,8,Enphase Energy,IQ 7,3000,15,30,36.0,-45,1.0,Nouvel R,44.34,1.01,France,Occitanie,226.8,155.0,3054.4,381.8
+13,8,2021,8,DUALSUN,DS 375W,8,Enphase Energy,IQ 7,3000,20,20,38.0,Sud,-1.0,Mr Faur&amp;eacute; - Carbonne,43.27,0.96,France,Occitanie,226.8,155.0,3054.4,381.8
+14,7,2021,10,Bourgeoisglobal,BGPV 300 BK,5,Bourgeoisglobal,MOBg-500-600-EU,3000,16,15,37.0,Sud,4.0,ABELLIO,43.21,1.38,France,Occitanie,425.0,200.0,5250.0,625.0
+15,11,2021,8,TRINA SOLAR,VERTEX S - DE09.08 Fond blanc / 400 W,8,Enphase Energy,IQ 7+,3200,15,15,38.0,Sud,1.0,Moi,43.37,1.29,France,Occitanie,207.1,184.81,3135.2799999999997,391.90999999999997
+16,12,2021,8,TRINA SOLAR,VERTEX S - DE09.08 Fond blanc / 400 W,8,Enphase Energy,IQ 7+,3200,15,20,37.0,-45,4.0,Moi meme,43.24,2.32,France,Occitanie,207.1,184.81,3135.2799999999997,391.90999999999997
+17,1,2022,4,TRINA SOLAR,VERTEX S - DE09.08 Fond blanc / 400 W,4,Enphase Energy,IQ 7+,1600,8,10,37.0,-45,0.0,Moi,45.85,1.25,France,Nouvelle-Aquitaine,0.0,184.81,739.24,184.81
+18,5,2022,16,Bourgeoisglobal,BGPV 300 BK,16,Enphase Energy,IQ 7+,4800,29,20,38.0,-110,0.0,Allez et Cie,43.37,3.25,France,Occitanie,425.0,184.81,9756.96,609.81
+19,1,2022,6,TRINA SOLAR,VERTEX S - DE09.08 Fond blanc / 400 W,6,Enphase Energy,IQ 7,2400,11,15,37.0,45,1.0,moi-m&amp;amp;ecirc;me,43.77,1.35,France,Occitanie,207.1,155.0,2172.6,362.1
+20,10,2021,4,TRINA SOLAR,VERTEX S - DE09.08 Fond blanc / 400 W,4,Enphase Energy,IQ 7+,1600,4,30,37.0,Sud,4.0,Moi,43.78,-0.42,France,Nouvelle-Aquitaine,0.0,184.81,739.24,184.81
+21,2,2022,6,TRINA SOLAR,VERTEX S - DE09.08 Fond blanc / 400 W,6,Enphase Energy,IQ 7,2400,11,15,38.0,-45,-4.0,Moi,43.28,-0.3,France,Nouvelle-Aquitaine,207.1,155.0,2172.6,362.1
+22,1,2022,8,TRINA SOLAR,VERTEX S - DE09.08 Fond blanc / 400 W,8,Enphase Energy,IQ 7,3200,15,60,37.0,-180,0.0,particulier,44.84,0.46,France,Nouvelle-Aquitaine,207.1,155.0,2896.8,362.1
+23,6,2022,7,TRINA SOLAR,VERTEX S - DE09.08 Fond blanc / 400 W,7,Enphase Energy,IQ 7,2800,12,35,37.0,20,-2.0,Autoinstal,46.63,0.3,France,Nouvelle-Aquitaine,207.1,155.0,2534.7,362.1
+24,4,2022,24,DUALSUN,DS 375W,24,Enphase Energy,IQ 7+,9000,43,20,36.0,-65,1.0,AES,43.92,1.34,France,Occitanie,226.8,184.81,9878.640000000001,411.61
+25,1,2021,12,Bourgeoisglobal,BGPV 300 BK,6,Bourgeoisglobal,MOBg-500-600-EU,3600,21,60,37.0,-180,1.0,A+ energies,43.76,1.29,France,Occitanie,425.0,200.0,6300.0,625.0
+26,3,2022,8,DUALSUN,DS 375W,8,Enphase Energy,IQ 7,3000,16,15,37.0,Sud,6.0,Moi m&amp;ecirc;me,43.87,-0.48,France,Nouvelle-Aquitaine,226.8,155.0,3054.4,381.8
+27,1,2022,4,Bourgeoisglobal,BGPV 300 BK,2,Bourgeoisglobal,MOBg-500-600-EU,1200,7,35,37.0,Sud,1.0,Particulier,43.67,1.58,France,Occitanie,425.0,200.0,2100.0,625.0
+28,3,2022,6,Bourgeoisglobal,BGPV 300 BK,3,Bourgeoisglobal,MOBg-500-600-EU,1800,10,30,38.0,45,-1.0,SAS SPE,43.38,-0.39,France,Nouvelle-Aquitaine,425.0,200.0,3150.0,625.0
+29,4,2022,16,DUALSUN,DS 375W,16,Enphase Energy,IQ 7+,6000,24,30,30.0,180,0.0,anm energies,42.5,2.96,France,Occitanie,226.8,184.81,6585.76,411.61
+30,5,2022,12,DUALSUN,DS 375W,12,Enphase Energy,IQ 7+,4500,22,30,37.0,-155,3.0,SEA SUN &amp;Eacute;NERGIE,44.78,-0.67,France,Nouvelle-Aquitaine,226.8,184.81,4939.320000000001,411.61
+31,6,2022,8,TRINA SOLAR,VERTEX S - DE09.08 Fond blanc / 400 W,8,Enphase Energy,IQ 7+,3200,16,15,38.0,40,0.0,Lui m&amp;ecirc;me,44.23,1.06,France,Occitanie,207.1,184.81,3135.2799999999997,391.90999999999997
+32,6,2022,41,Bourgeoisglobal,BGPV 300 BK,20,Bourgeoisglobal,MOBg-500-600-EU,12300,52,15,36.0,10,4.0,Synergys,43.36,2.29,France,Occitanie,425.0,200.0,21425.0,625.0
+33,7,2022,8,Bourgeoisglobal,BGPV 300 BK,4,Bourgeoisglobal,MOBg-500-600-EU,2400,15,30,37.0,-45,1.0,de freitas,43.63,1.46,France,Occitanie,425.0,200.0,4200.0,625.0
+34,7,2022,16,Bourgeoisglobal,BGPV 300 BK,3,Bourgeoisglobal,MOBg-500-600-EU,4800,29,25,38.0,10,0.0,IMEX,45.48,-0.1,France,Nouvelle-Aquitaine,425.0,200.0,7400.0,625.0
+35,7,2022,4,Bourgeoisglobal,BGPV 300 BK,1,Bourgeoisglobal,MOBg-500-600-EU,1200,7,30,38.0,40,1.0,Dynamis,43.66,4.02,France,Occitanie,425.0,200.0,1900.0,625.0
+36,6,2022,16,DUALSUN,DS 375W,16,Enphase Energy,IQ 7,6000,30,35,38.0,45,1.0,AJCONFORT Saint Aunes 34130,43.48,3.79,France,Occitanie,226.8,155.0,6108.8,381.8
+37,6,2021,10,Bourgeoisglobal,BGPV 300 BK,10,Bourgeoisglobal,MOBg-500-600-EU,3000,17,35,37.0,-90,6.0,QARA  Energie solaire,44.7,-1.03,France,Nouvelle-Aquitaine,425.0,200.0,6250.0,625.0
+38,10,2022,8,Bourgeoisglobal,BGPV 300 BK,4,Bourgeoisglobal,MOBg-500-600-EU,2400,14,20,39.0,10,-1.0,JL TECHNOLOGIE,43.82,4.26,France,Occitanie,425.0,200.0,4200.0,625.0
+39,9,2022,8,DUALSUN,DS 375W,8,Enphase Energy,IQ 7+,3000,16,15,37.0,-30,2.0,Moi,44.65,-0.59,France,Nouvelle-Aquitaine,226.8,184.81,3292.88,411.61
+40,9,2022,8,DUALSUN,DS 375W,8,Enphase Energy,IQ 7,3000,14,40,38.0,35,-5.0,NouvelR,43.15,-0.13,France,Nouvelle-Aquitaine,226.8,155.0,3054.4,381.8
+41,6,2021,14,Bourgeoisglobal,BGPV 300 BK,7,Bourgeoisglobal,MOBg-500-600-EU,4200,24,10,37.0,-45,0.0,Ma maison verte ,44.76,1.04,France,Nouvelle-Aquitaine,425.0,200.0,7350.0,625.0
+42,9,2022,16,DUALSUN,DS 375W,4,Enphase Energy,IQ 7+,6000,30,30,38.0,-75,0.0,Allairedutemps - 17000 La Rochelle,46.75,-0.7,France,Nouvelle-Aquitaine,226.8,184.81,4368.04,411.61
